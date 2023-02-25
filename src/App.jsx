@@ -4,7 +4,7 @@ import { Welcome } from "./components/Welcome";
 import { Question } from "./components/Question";
 import GameOver from "./components/GameOver";
 
-import capa from "./img/capa7.jfif";
+import capa from "./img/capa.jfif";
 import "./App.css";
 
 function App() {
