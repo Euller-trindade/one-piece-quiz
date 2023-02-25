@@ -1,0 +1,24 @@
+.option {
+  background-color: #e2dee6;
+  border-radius: 0.5rem;
+  padding: 1em;
+  margin-bottom: 1rem;
+  cursor: pointer;
+
+  transition: 0.4s;
+}
+
+.option p {
+  color: #000;
+  font-weight: bold;
+}
+#options-container .option p {
+  margin-bottom: 0;
+}
+.correct {
+  background-color: #0bfc03;
+}
+.wrong {
+  background-color: #e41313;
+  opacity: 0.4;
+}

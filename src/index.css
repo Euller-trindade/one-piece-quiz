@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+}
+html,
+body {
+  min-height: 100vh;
+  height: 100%;
+}
+
+button {
+  font-weight: bold;
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 0.8rem 4.5rem;
+  background: #e70000;
+  border-radius: 1rem;
+  border: none;
+  transition: 0.5s;
+}
+button:hover {
+  background: #ad0000;
+}

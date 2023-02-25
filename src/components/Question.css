@@ -1,0 +1,16 @@
+#question {
+  position: relative;
+  text-align: center;
+  max-width: 500px;
+  background-color: #0000007e;
+  border-radius: 1rem;
+  padding: 2rem;
+}
+#question h2,
+#question p {
+  margin-bottom: 2rem;
+}
+#question h1 {
+  margin-bottom: 1rem;
+  color: #fdfdfd;
+}

@@ -1,0 +1,15 @@
+#gameOver {
+  position: relative;
+  text-align: center;
+  max-width: 500px;
+  background-color: #0000007e;
+  border-radius: 1rem;
+  padding: 2rem;
+}
+#gameOver h1,
+#gameOver p {
+  margin-bottom: 3rem;
+}
+#gameOver h1 {
+  color: #fdfdfd;
+}
